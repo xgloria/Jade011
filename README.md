@@ -5,3 +5,12 @@ Jade 011 images, geojson, etc.
 
 Netlify permanent link for the map
 https://jade011mapver1.netlify.app/
+
+### The Code for Jade011 is in the Shared folder, Colab Notebook folder->Jade011
+
+There are two maps.
+1) Jade011 map
+The Hindustan Marker used the simple html form. 
+3) Jade010&Jade011 map
+The Hindustan Marker used the new html form.
+>Sample for Two objects placing side by side.  
